@@ -5,7 +5,7 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "Společenství křemíkové hory",
         "isTitleVisible": true,
         "primaryLinks": [
             {
@@ -15,29 +15,17 @@
             },
             {
                 "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
+                "label": "wiki",
+                "url": "https://wiki.sh.cvut.cz/klub/blokove_hry/ls_2024"
             }
         ],
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
-            },
-            {
-                "type": "Social",
                 "label": "Facebook",
                 "altText": "",
-                "url": "/",
-                "icon": "github",
+                "url": "https://www.facebook.com/blokovehrySH",
+                "icon": "facebook",
                 "elementId": ""
             }
         ],
