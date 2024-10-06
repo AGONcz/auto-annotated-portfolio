@@ -67,12 +67,6 @@
                 "label": "facebook",
                 "url": "https://www.facebook.com/blokovehrySH",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
             }
         ],
         "contacts": {
