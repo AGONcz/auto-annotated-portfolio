@@ -17,7 +17,7 @@ sections:
       - type: Button
         label: wiki
         altText: ''
-        url: /
+        url: 'https://wiki.sh.cvut.cz/klub/blokove_hry/ls_2024'
         showIcon: true
         icon: arrowRight
         iconPosition: right
