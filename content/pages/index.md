@@ -193,4 +193,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+socialImage: /images/461694809_1686707245519403_5849830150837145584_n.png
 ---
