@@ -15,7 +15,7 @@ sections:
     subtitle: Již brzy se dozvíš více
     actions:
       - type: Button
-        label: Hire me
+        label: wiki
         altText: ''
         url: /
         showIcon: true
