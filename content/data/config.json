@@ -27,17 +27,18 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
                 "url": "https://github.com/netlify-templates",
                 "icon": "github"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/",
+                "icon": "github",
+                "elementId": ""
             }
         ],
         "styles": {
@@ -51,44 +52,33 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info",
+                "label": "Wiki",
+                "url": "https://wiki.sh.cvut.cz/klub/blokove_hry/zs_2024",
                 "altText": ""
             },
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
+                "url": "mailto:agonek1@seznam.cz",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
+                "label": "facebook",
+                "url": "https://www.facebook.com/blokovehrySH",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
             }
         ],
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
-            "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
-            "addressAltText": "My address"
-        },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }
