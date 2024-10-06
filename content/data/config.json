@@ -27,14 +27,6 @@
                 "url": "https://www.facebook.com/blokovehrySH",
                 "icon": "facebook",
                 "elementId": ""
-            },
-            {
-                "type": "Social",
-                "label": "Facebook",
-                "altText": "",
-                "url": "/",
-                "icon": "github",
-                "elementId": ""
             }
         ],
         "styles": {
