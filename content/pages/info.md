@@ -13,16 +13,7 @@ sections:
   - type: HeroSection
     title: již brzy nás poznáš lépe
     subtitle: ''
-    actions:
-      - type: Button
-        label: Hire me
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: /images/461694809_1686707245519403_5849830150837145584_n.png
