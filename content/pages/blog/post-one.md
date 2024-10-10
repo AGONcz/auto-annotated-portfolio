@@ -1,17 +1,19 @@
 ---
 type: PostLayout
-title: How I started a startup 🚀
+title: "How I started a startup \U0001F680"
 colors: colors-a
 date: '2021-06-28'
 author: content/data/team/doris-soto.json
-excerpt: >-
-  More context that may or may not be helpful
+excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
   altText: Post thumbnail image
 media:
-  url: /images/post-2.jpg
+  url: >-
+    /images/DALL·E 2024-10-07 13.17.43 - A product journey diagram showing the
+    lifecycle of a stroller in a circular economy. The diagram includes three
+    main stages_ 1) New Product Creation, .webp
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
@@ -51,7 +53,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock
