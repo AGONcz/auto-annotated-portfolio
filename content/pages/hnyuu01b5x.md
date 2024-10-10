@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: jsi tu moc brzo
-    subtitle: The section subtitle
+    subtitle: tohle ti pomůže v bonusovce
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
