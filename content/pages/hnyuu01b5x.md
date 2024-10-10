@@ -7,9 +7,8 @@ sections:
     variant: variant-a
     title: jsi tu moc brzo
     subtitle: tohle ti pomůže v bonusovce
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: |
+      přijď později
     elementId: ''
     styles:
       self:
