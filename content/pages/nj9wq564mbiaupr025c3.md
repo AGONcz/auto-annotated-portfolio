@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: druhá pomoc při bonusovce
+title: třetí pomoc při bonusovce
 sections:
   - type: TextSection
     colors: colors-f
