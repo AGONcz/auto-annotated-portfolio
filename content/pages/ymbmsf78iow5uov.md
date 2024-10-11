@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: '1'
+title: '2'
 sections:
   - type: TextSection
     colors: colors-f
