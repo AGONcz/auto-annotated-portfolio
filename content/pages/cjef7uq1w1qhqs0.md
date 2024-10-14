@@ -5,7 +5,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: Jsi tu brzo 10
+    title: Jsi tu brzo 11
     subtitle: přijď později
     text: |
       ještě na tom pracujeme
