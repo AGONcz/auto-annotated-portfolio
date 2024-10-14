@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Jsi tu brzo 4
-    subtitle: 'přijď později, pomůže ti to při bonusovce'
+    subtitle: přijď později
     text: |
       ještě na tom pracujeme
     elementId: ''
